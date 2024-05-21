@@ -1,4 +1,4 @@
-# Mango Digital Business Management System
+# Mango Analytics Inventory System
 
 ## Introduction
 
